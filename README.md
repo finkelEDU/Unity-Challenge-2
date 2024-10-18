@@ -1,2 +1,2 @@
 # Unity Challenge 2
- For College
+ For College, by B00099936
